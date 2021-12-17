@@ -1,1 +1,1 @@
-This is a folder containing my Regression projects.
+This folder contains my Regression projects.
