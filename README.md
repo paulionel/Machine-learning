@@ -8,3 +8,4 @@ Order in which I completed the projects:
 2. Simple_linear_regression.ipynb
 3. Multiple_linear_regression.ipynb
 4. Polynomial_regression.ipynb
+5. Support-Vector-Regression
