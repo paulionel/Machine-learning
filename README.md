@@ -14,3 +14,4 @@ Order in which I completed the projects:
 8. Logistical_regression
 9. k_nearest_neighbors
 10. Support_vector_machine
+11. Kernel_svm
