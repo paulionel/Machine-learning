@@ -10,3 +10,4 @@ Order in which I completed the projects:
 4. Polynomial_regression.ipynb
 5. Support-Vector-Regression
 6. Decision_tree_regression
+7. Random_forest_regression
