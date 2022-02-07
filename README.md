@@ -13,3 +13,4 @@ Order in which I completed the projects:
 7. Random_forest_regression
 8. Logistical_regression
 9. k_nearest_neighbors
+10. Support_vector_machine
