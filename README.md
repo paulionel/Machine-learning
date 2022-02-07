@@ -11,3 +11,5 @@ Order in which I completed the projects:
 5. Support-Vector-Regression
 6. Decision_tree_regression
 7. Random_forest_regression
+8. Logistical_regression
+9. k_nearest_neighbors
