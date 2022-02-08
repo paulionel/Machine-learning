@@ -22,3 +22,4 @@ Order in which I completed the projects:
 15. Random_forest_classification
 16. K_means_clustering
 17. Hierarchical_clustering
+18. Apriori
