@@ -23,3 +23,4 @@ Order in which I completed the projects:
 16. K_means_clustering
 17. Hierarchical_clustering
 18. Apriori
+19. Eclat
