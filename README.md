@@ -20,3 +20,4 @@ Order in which I completed the projects:
 13. Naive_bayes
 14. Decision_tree_classification
 15. Random_forest_classification
+16. K_means_clustering
