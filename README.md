@@ -27,3 +27,4 @@ Order in which I completed the projects:
 20. Upper_confidence_bound
 21. Thompson_sampling
 22. Natural_language_processing
+23. Artificial_neural_network
