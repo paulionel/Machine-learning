@@ -21,3 +21,4 @@ Order in which I completed the projects:
 14. Decision_tree_classification
 15. Random_forest_classification
 16. K_means_clustering
+17. Hierarchical_clustering
