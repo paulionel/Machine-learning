@@ -31,3 +31,4 @@ Order in which I completed the projects:
 24. Convolutional_neural_network
 25. Principal_component_analysis
 26. Linear_discriminant_analysis
+27. Kernel_pca
