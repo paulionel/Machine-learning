@@ -26,3 +26,4 @@ Order in which I completed the projects:
 19. Eclat
 20. Upper_confidence_bound
 21. Thompson_sampling
+22. Natural_language_processing
