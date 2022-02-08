@@ -19,3 +19,4 @@ Order in which I completed the projects:
 12. Kernel_svm
 13. Naive_bayes
 14. Decision_tree_classification
+15. Random_forest_classification
