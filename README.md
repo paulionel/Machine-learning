@@ -24,3 +24,5 @@ Order in which I completed the projects:
 17. Hierarchical_clustering
 18. Apriori
 19. Eclat
+20. Upper_confidence_bound
+21. Thompson_sampling
